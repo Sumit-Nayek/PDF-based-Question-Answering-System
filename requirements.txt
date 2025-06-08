@@ -1,0 +1,9 @@
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+transformers==4.30.2
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+langchain==0.0.346
+huggingface-hub==0.16.4
+gradio==3.41.2
+pdfplumber==0.9.0
