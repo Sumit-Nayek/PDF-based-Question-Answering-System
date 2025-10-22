@@ -49,11 +49,3 @@ The most relevant chunks are retrieved using cosine similarity between question 
 ### 7. **Answer Generation**
 A pre-trained language model generates the answer using the retrieved context.
 
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/pdf-qa-system.git
-cd pdf-qa-system
-pip install -r requirements.txt
